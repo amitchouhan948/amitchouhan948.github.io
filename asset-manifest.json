@@ -1,18 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.350db959.css",
-    "main.js": "/static/js/main.8ce36c23.js",
+    "main.css": "/static/css/main.e85fa229.css",
+    "main.js": "/static/js/main.50585162.js",
     "static/js/787.ffefe131.chunk.js": "/static/js/787.ffefe131.chunk.js",
     "static/media/Amit_Singh_Chouhan_resume.pdf": "/static/media/Amit_Singh_Chouhan_resume.dc705130c1637e2d9ac4.pdf",
+    "static/media/nodejs.jpg": "/static/media/nodejs.d014a8eebcc3ed0c454e.jpg",
     "static/media/my_pic.png": "/static/media/my_pic.10dd7784f438171f28b1.png",
+    "static/media/javascript.jpg": "/static/media/javascript.2a1410b38a792b28dbc2.jpg",
+    "static/media/rect.png": "/static/media/rect.283bf42c605cfc49cf49.png",
+    "static/media/mongodb.png": "/static/media/mongodb.e82388bff82e1d056f18.png",
+    "static/media/html.jpg": "/static/media/html.5aeb7784a4f555fd7741.jpg",
+    "static/media/chak.jpg": "/static/media/chak.22937fcd5af2100437bd.jpg",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
-    "main.350db959.css.map": "/static/css/main.350db959.css.map",
-    "main.8ce36c23.js.map": "/static/js/main.8ce36c23.js.map",
+    "main.e85fa229.css.map": "/static/css/main.e85fa229.css.map",
+    "main.50585162.js.map": "/static/js/main.50585162.js.map",
     "787.ffefe131.chunk.js.map": "/static/js/787.ffefe131.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.350db959.css",
-    "static/js/main.8ce36c23.js"
+    "static/css/main.e85fa229.css",
+    "static/js/main.50585162.js"
   ]
 }
