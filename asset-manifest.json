@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.b1f3f24c.css",
-    "main.js": "/static/js/main.77a913e1.js",
+    "main.js": "/static/js/main.8f471051.js",
     "static/js/787.ffefe131.chunk.js": "/static/js/787.ffefe131.chunk.js",
     "static/media/PROFILE.jpg": "/static/media/PROFILE.8778639977d75e5e4e44.jpg",
     "static/media/Wave.gif": "/static/media/Wave.e1a71739dcb68192cd37.gif",
     "static/media/Screenshot1.png": "/static/media/Screenshot1.53ac4537332aac0099b0.png",
     "static/media/Screenshot2.png": "/static/media/Screenshot2.5e23904b27dd295665f3.png",
     "static/media/Screenshot3.png": "/static/media/Screenshot3.3963eaea0804096447f1.png",
+    "static/media/array.gif": "/static/media/array.c5726be3239a8ad2d1a4.gif",
     "static/media/Amit_Singh_Chouhan_resume.pdf": "/static/media/Amit_Singh_Chouhan_resume.dc705130c1637e2d9ac4.pdf",
     "static/media/nodejs.jpg": "/static/media/nodejs.d014a8eebcc3ed0c454e.jpg",
     "static/media/reducs.jpg": "/static/media/reducs.393c075e2970664559aa.jpg",
@@ -18,15 +19,14 @@
     "static/media/git.jpg": "/static/media/git.abbe0463d41f97043f3d.jpg",
     "static/media/html.jpg": "/static/media/html.5aeb7784a4f555fd7741.jpg",
     "static/media/chak.jpg": "/static/media/chak.22937fcd5af2100437bd.jpg",
-    "static/media/array.gif": "/static/media/array.2e10368decb8abde955d.gif",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
     "main.b1f3f24c.css.map": "/static/css/main.b1f3f24c.css.map",
-    "main.77a913e1.js.map": "/static/js/main.77a913e1.js.map",
+    "main.8f471051.js.map": "/static/js/main.8f471051.js.map",
     "787.ffefe131.chunk.js.map": "/static/js/787.ffefe131.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b1f3f24c.css",
-    "static/js/main.77a913e1.js"
+    "static/js/main.8f471051.js"
   ]
 }
