@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.31fbe575.css",
-    "main.js": "/static/js/main.5a967060.js",
+    "main.css": "/static/css/main.55269cc7.css",
+    "main.js": "/static/js/main.66188a75.js",
     "static/js/787.ffefe131.chunk.js": "/static/js/787.ffefe131.chunk.js",
-    "static/media/PROFILE.jpg": "/static/media/PROFILE.8778639977d75e5e4e44.jpg",
     "static/media/Wave.gif": "/static/media/Wave.e1a71739dcb68192cd37.gif",
+    "static/media/animate.gif": "/static/media/animate.d548ae45fbd79060d48d.gif",
     "static/media/Screenshot1.png": "/static/media/Screenshot1.53ac4537332aac0099b0.png",
     "static/media/Screenshot2.png": "/static/media/Screenshot2.5e23904b27dd295665f3.png",
     "static/media/Screenshot3.png": "/static/media/Screenshot3.3963eaea0804096447f1.png",
     "static/media/array.gif": "/static/media/array.c5726be3239a8ad2d1a4.gif",
     "static/media/Amit_Singh_Chouhan_resume.pdf": "/static/media/Amit_Singh_Chouhan_resume.dc705130c1637e2d9ac4.pdf",
+    "static/media/pic.jpg": "/static/media/pic.dbd5d74659fb944ff352.jpg",
     "static/media/email.png": "/static/media/email.5636e71f0723594abcb8.png",
     "static/media/reducs.jpg": "/static/media/reducs.393c075e2970664559aa.jpg",
     "static/media/javascript.jpg": "/static/media/javascript.2a1410b38a792b28dbc2.jpg",
@@ -22,12 +23,12 @@
     "static/media/chak.jpg": "/static/media/chak.22937fcd5af2100437bd.jpg",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
-    "main.31fbe575.css.map": "/static/css/main.31fbe575.css.map",
-    "main.5a967060.js.map": "/static/js/main.5a967060.js.map",
+    "main.55269cc7.css.map": "/static/css/main.55269cc7.css.map",
+    "main.66188a75.js.map": "/static/js/main.66188a75.js.map",
     "787.ffefe131.chunk.js.map": "/static/js/787.ffefe131.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.31fbe575.css",
-    "static/js/main.5a967060.js"
+    "static/css/main.55269cc7.css",
+    "static/js/main.66188a75.js"
   ]
 }
