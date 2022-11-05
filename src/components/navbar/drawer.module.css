@@ -1,0 +1,13 @@
+
+
+
+.text:hover {
+    cursor: pointer;
+    color: red;
+    /* text-decoration: underline; */
+    font-weight: 5000;
+    font-size: larger;
+    border-bottom: 2px solid red;
+    padding-bottom: .2em;
+
+}

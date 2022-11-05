@@ -1,0 +1,17 @@
+
+
+.texts{
+    margin: 70px;
+}
+
+
+.card{
+    
+     width:"95%";
+      margin:"auto" ;
+      justify-content:"space-between";
+       margin-top: "120px";
+       background-image: "https://i.pinimg.com/originals/37/b8/11/37b8112791f2529ffe4882412b541c94.gif";
+        /* background-size:"65%" */
+
+}
