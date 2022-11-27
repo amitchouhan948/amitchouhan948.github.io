@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.55269cc7.css",
-    "main.js": "/static/js/main.1f3e180e.js",
+    "main.js": "/static/js/main.35c21025.js",
     "static/js/787.ffefe131.chunk.js": "/static/js/787.ffefe131.chunk.js",
     "static/media/Wave.gif": "/static/media/Wave.e1a71739dcb68192cd37.gif",
     "static/media/animate.gif": "/static/media/animate.d548ae45fbd79060d48d.gif",
@@ -11,7 +11,7 @@
     "static/media/array.gif": "/static/media/array.c5726be3239a8ad2d1a4.gif",
     "static/media/Screenshot1111.png": "/static/media/Screenshot1111.5627d31eea02fc817e2e.png",
     "static/media/Screenshot3333.png": "/static/media/Screenshot3333.334b21de49772d1aec43.png",
-    "static/media/Amit_Singh_Chouhan_resume.pdf": "/static/media/Amit_Singh_Chouhan_resume.47cb1bb058b5df912952.pdf",
+    "static/media/Amit_Singh_Chouhan_resume.pdf": "/static/media/Amit_Singh_Chouhan_resume.17c64eaaa965c31885cb.pdf",
     "static/media/Screenshot2222.png": "/static/media/Screenshot2222.63fba93080c4fce89fcc.png",
     "static/media/pic.jpg": "/static/media/pic.dbd5d74659fb944ff352.jpg",
     "static/media/email.png": "/static/media/email.5636e71f0723594abcb8.png",
@@ -27,11 +27,11 @@
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
     "main.55269cc7.css.map": "/static/css/main.55269cc7.css.map",
-    "main.1f3e180e.js.map": "/static/js/main.1f3e180e.js.map",
+    "main.35c21025.js.map": "/static/js/main.35c21025.js.map",
     "787.ffefe131.chunk.js.map": "/static/js/787.ffefe131.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.55269cc7.css",
-    "static/js/main.1f3e180e.js"
+    "static/js/main.35c21025.js"
   ]
 }
